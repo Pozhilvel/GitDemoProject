@@ -20,6 +20,8 @@ public class StepDefinition {
 		System.out.println("Login success1");
 		System.out.println("Login success2");
 		System.out.println("Login success3");
+		System.out.println("Login success4");
+		
 	}
 	@Then("^Home page is displayed$")
 	public void home_page_is_displayed()
